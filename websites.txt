@@ -1,0 +1,15 @@
+1. https://reddit.com
+2. https://github.com
+3. https://stackoverflow.com
+4. 
+
+
+--------For Ubuntu-------------
+- https://askubuntu.com
+
+--------For Android-------------
+- https://android.stackexchange.com
+
+--------For Unix & Linux-------------
+- https://unix.stackexchange.com
+
